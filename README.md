@@ -19,6 +19,9 @@
 
 This is the first environment setup task in the course. In this assignment, we will set up GitHub Classroom for all future programming assignments.
 
+### Creating a GitHub Account
+
+If you do not already have a GitHub account, please create an account in [GitHub](http://www.github.com/). Remember to submit all future assignments using this GitHub username.
 
 ### Installing Git
 
@@ -30,10 +33,6 @@ Please follow these instructions for installing Git:
 2.  To improve your Git experience, you will need to set up SSH keys for the machine using Git, if you haven't done so. To set up SSH keys, please refer to this [page](https://docs.github.com/en/enterprise/2.20/user/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). Note that you only need to complete the subsection titled _Generating a new SSH key_ for your OS.
 3.  Add your newly-generated SSH keys to the GitHub account, as done [here](https://docs.github.com/en/enterprise/2.20/user/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
-
-### Creating a GitHub Account
-
-If you do not already have a GitHub account, please create an account in [GitHub](http://www.github.com/). Remember to submit all future assignments using this GitHub username.
 
 
 ### Setting Up GitHub Classroom
